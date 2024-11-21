@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h0abb363bgc00cg7c91ge3e4ge81d4489366a" version="1">Duskblade</content>
+  <content contentuid="hf9acbf97g1ddcg6c2fgc80fg7fd24d8febd8" version="1">The Duskblade blurs the line between spellcaster and warrior, marrying the power of magic with hand-to-hand combat prowess.</content>
+  <content contentuid="hac2e78e0g7479g919dg405eg9fe59ea5c1b0" version="1">Elemental Blade</content>
+  <content contentuid="h6afea0e7gebefg3d64g7233g1c4436fa768c" version="1">Elemental</content>
+  <content contentuid="hfb0fa24fg140bg14abgc07ag5b2829ccc9af" version="2">The Elementalist harnesess the raw power of the elements to wrought havoc upon their enemies.</content>
+  <content contentuid="hf00f05a0g4be1g5b53g2d89ga97079d9242b" version="1">Necromancer Blade</content>
+  <content contentuid="he346c38ag215dgea71ga85egf11924964368" version="1">Necro</content>
+  <content contentuid="h6e28af5ag90efg3e53gca01ge18fed06a30b" version="1">The Necroblade walks the line between life and death. They call upon the power of both to devistate both the living and the undead.</content>
+  <content contentuid="h1526a8c9gb761gc35egdf46ga11ce3177bca" version="2">Melee Caster</content>
+  <content contentuid="h65a2693dg37d1gd572ge0c3gec25abf5b1c1" version="1">You can only have 1 bound weapon at any time. &lt;br&gt;&lt;br&gt;The weapon returns to its previous state if you are more than [1] away from it for more than 10 rounds.</content>
+  <content contentuid="h955e5526g6e30gc381g7039g64ce8bb0762c" version="1">Wail of the Banshee</content>
+  <content contentuid="h8efbda74gf711g1ae5g23ddg8ab6aa17209b" version="1">You emit a heart-rendering wail that beckons the living to the grave and dealing [1] and possibly stunning enemies.</content>
+  <content contentuid="h0c8449c7g20eegedb2g2440g22c68069e76e" version="1">Blade of Blood</content>
+  <content contentuid="haec85216g6f01gada0g8c1agaa7063dc8a9a" version="1">Infuses your weapon with blood and causes an additional [1].</content>
+  <content contentuid="hb2c5b73fg20bag5873g6ab3ga0a946a590db" version="1">Psychic Strike</content>
+  <content contentuid="h2f0b4c13g76d2gba93g5bb5g7194b374fe74" version="1">Vampiric Strike</content>
+  <content contentuid="hdbbd1349gab35gcd60g65f9g3a25e90bc2df" version="1">Fire Surge</content>
+  <content contentuid="hf61bb325gde42g6ca8ga039g3b8f8c0911a3" version="1">Imbue your weapon with the fury of the elements. Your weapon is sheathed in fire and deals an additional [1].</content>
+  <content contentuid="hebac9accg3608ga980g4c17g79cc590e396b" version="1">Imbue your weapon with the fury of the elements. Your weapon is sheathed in ice and deals an additional [1].</content>
+  <content contentuid="h2c7ad945gb6c8g6333g404dg22eef2913e39" version="1">Lightning Surge</content>
+  <content contentuid="h8918e8c7gbd1eg76e6g7f7dgcb6880851bd8" version="1">Imbue your weapon with the fury of the elements. Your weapon is sheathed in lightning and deals an additional [1].</content>
+  <content contentuid="h19348b63g8ef0g199bg4563ge1c096b7b3ae" version="1">Cold Surge</content>
+  <content contentuid="h04ff4b2dgf991g10d5g5320g6d04eea96177" version="1">Thunder Surge</content>
+  <content contentuid="hdb869b4eg637fg3469gb20agf74a7fe89917" version="1">Imbue your weapon with the fury of the elements. Your weapon is sheathed in thunderous force and deals an additional [1].</content>
+  <content contentuid="hbd3d909dg65d4ga76dg2672g65d4aa268ebd" version="1">Channel the weave into your strikes, rattling your enemy's brain and causing an additional [1].</content>
+  <content contentuid="h7591a8c2gc46fg480dgaa88gc3c13a4339bb" version="1">Attack an enemy with your weapon to siphon their life force and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="h40548214gd748g87cag2858g70ceaabb9ee2" version="1">Vampiric Strike</content>
+  <content contentuid="ha01d1c62gb997g386fg966bg9658a7917f71" version="1">Attack an enemy with your weapon to siphon their life force and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="hb481b44egb361g48c7g29c2gc078fe8cc0a6" version="1">Favored Element</content>
+  <content contentuid="h28ac7159g3d02gc7b0g0383g2573d55b5db3" version="1">Choose an element at which you wish to excel.</content>
+  <content contentuid="hdca29a44geab8g31c7gbeefg51f06616f416" version="1">Favored Element</content>
+  <content contentuid="hd14f89a0gbe49g3abegad21g8aa394c3166e" version="1">Choose an element at which you wish to excel.</content>
+  <content contentuid="h5f1abc7bg5096gac6dg7e74g5bcf0307a434" version="1">Spell Power</content>
+  <content contentuid="h3092a10fge998g6597ga281g50b8fb9d4c3a" version="1">You gain a + [1] to overcome the spell &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; of your opponents.</content>
+  <content contentuid="h14abf6b6ga16fge1a9g0c08gfd05d05254ef" version="1">Aura of Necromancy</content>
+  <content contentuid="hd1b8bf45gd300g5cebg677ege7fc2918b4b0" version="1">The affected entity is immune to Diseases, Poisons and being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, and makes all Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h2aa848e3gce1fg5b70gb6c5gb99b5fcabd47" version="2">Breastplate</content>
+  <content contentuid="h9e6f9aa0gad0cg2e9egaaebg3ab3d4c5772d" version="2">This standard-sized breastplate is lined with thick padding meant to cushion the wearer and deflect blows from assailants. The uniform squares of the padding suggest a mathematically-minded crafter.</content>
+  <content contentuid="hf41000acg88adg030dge40ag0060792ce914" version="3">Leather boots</content>
+  <content contentuid="h3d8af956g3c8cg08fagfd21g475c6a810ed3" version="3">Hood</content>
+  <content contentuid="h3a770749g60b0g0821ga668gd70762948d33" version="3">Years of use in battle have left this hood torn and frayed in some areas. Smells a little of death.</content>
+  <content contentuid="hc3d0f9ccgb91dg9dc5ge237ge1531e0538cb" version="3">Hood</content>
+  <content contentuid="h7bfccf31g79dfgcb7dgaae5gd27d4a6ff021" version="3">Years of use in battle have left this hood torn and frayed in some areas. Smells a bit like ozone.</content>
+  <content contentuid="h7dc59681gb3f7g613agdefag7c4e81cd5b1b" version="2">Plate Armour</content>
+  <content contentuid="hfac68b4fg1b63g015ag598dg9ed511a0bb3a" version="1">Chainmail Boots</content>
+  <content contentuid="h93a6bdaag0032gd1f9gcf0bg22f56026b6e7" version="1">Energy Surge</content>
+  <content contentuid="h12c99de9g6328g9ad6gdedegda70c25e0bcf" version="2">You temporarily imbue your weapon with an elemental energy type of your choosing. Your attack will deal an additional 2d8 of that elemental type.</content>
+  <content contentuid="h5a395ff7gbd98g063ag7035g50ead4f83e8e" version="1">Fire</content>
+  <content contentuid="h5543a93cg965dg46fbg175cg13f59a0060b3" version="1">You deal an additional [1] damage.</content>
+  <content contentuid="h63d2d60cg7ecdg2a3dg73b9g08ae5059deb5" version="1">Cold</content>
+  <content contentuid="h596d5ed2gd02fgefbcg5a19g18cb8298915d" version="1">Lightning</content>
+  <content contentuid="hdd8d0999g318fg7996g5152gdad64dad0418" version="1">Thunder</content>
+  <content contentuid="he8711052g87f4gd58eg0beega850a809c1bc" version="1">Acid</content>
+  <content contentuid="h518cfbb2g7b34g727bgb012g231eedcd5f84" version="1">To Arms</content>
+  <content contentuid="h6fe4f0eag392ag6036g9428g5ddf6f2e3cdf" version="1">You emit a battle cry to stir awake your allies and stand up from a prone position.</content>
+  <content contentuid="h7c5bf734gc6a7gc0b6g3133g7e26f2924fc3" version="1">To Arms</content>
+  <content contentuid="h40ad3a26g5b80g2362gd580g2945182831d1" version="1">You emit a battle cry to stir awake your allies and stand up from a prone position.</content>
+  <content contentuid="h7af17784g28e7g0284g78a1g6b6995de7c01" version="1">A large glowing fist, the size of a human torso, appears in front of the creature and slams into it with great force, dealing [1] damage.</content>
+  <content contentuid="h080b6060ge606g5058g15f6g7410437cc78f" version="1">Quick Cast</content>
+  <content contentuid="hab01862dg3db2g0b0dgb89ag0649abdf8d72" version="1">Spells that cost an action cost a bonus action instead. &lt;br&gt;&lt;br&gt;Costs [1] Quick Cast Point per spell.</content>
+  <content contentuid="h69c797d5g345bgad5aga738g3c1ba1a98030" version="1">Quick Cast Point(s)</content>
+  <content contentuid="h6ba4394fg2ab3g795dgdd1bg8fbec3182607" version="1">Quick Cast points determine how many times you per long rest that you can quick cast a spell.</content>
+  <content contentuid="hccc75c9ag188ag2367gfc55g694697dddc95" version="2">Quickcast</content>
+  <content contentuid="h516d4fecgaa27g11d7g540fg1c4fc51b825f" version="1">You gained the ability to more quickly cast your spells.</content>
+  <content contentuid="h4883b615gfabdgf66fg5f53gecea160ee57c" version="1">Duskblade</content>
+  <content contentuid="h5ac01541ge12egd748g65f4g25348143e4ea" version="1">The Duskblade blurs the line between spellcaster and warrior, marrying the power of magic with hand-to-hand combat prowess.</content>
+  <content contentuid="had617202gc3bdg4ba7gda25g79c179bff2c2" version="2">Quick Cast Points: [3]</content>
+  <content contentuid="hdbb5569eg29eeg634dgb416gaebebdf5ab98" version="1">Quick cast points can be used to quicken one of your spells.</content>
+  <content contentuid="h8d9ef348g4ab1g6351g3a0dgb0268deaf240" version="1">Tough</content>
+  <content contentuid="heb6aca9bg1b39g29cag6a6fgbcdcc1bb6fbb" version="1">Bigby's Striking Fist</content>
+  <content contentuid="haf202314gf529g6a95gfff6gcd615df8805a" version="1">Binds your weapon to you and allows you to use your intelligence modifier for your attack bonus.</content>
+  <content contentuid="hb04dcf06g531fga631ga169g9ebee13097df" version="1">Melee Caster</content>
+  <content contentuid="h8d810bbbgcd22gd648g68a0g00061ae92976" version="1">The duskblade bound to this weapon is always &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with it. The weapon's damage is magical.</content>
+  <content contentuid="h3a7aa1f1ga4adg863ag1870g420e3524a6fa" version="1">Shocking Strike</content>
+  <content contentuid="h5bfa1956g638bg94b7gdf14ge6dd89d2a04c" version="1">Lightning Cleave</content>
+</contentList>
