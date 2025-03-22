@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="Equinox Vanguard Skill List"/>
+                    <attribute id="Skills" type="LSString" value="Acrobatics, SleightOfHand, Stealth, Arcana, Insight, Perception, Deception, Intimidation"/>
+                    <attribute id="UUID" type="guid" value="9147582d-8031-4c81-8f66-f10d8a6f2da4"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

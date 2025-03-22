@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hbf19c7fag26e7ga0f5g2e23gc386569f0f98" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2b6d2deg35c8g28f4g3a39g5b2014dcda22" version="2"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="6"/>
+                    <attribute id="Name" type="FixedString" value="WW83_TwilightCharge"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="edc55a28-b30a-4530-901d-aa66199c9287"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h39e3ab5fg9242gb8a7g7a2ag78205e58e3e3" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9d66c546ga0e9gc59bg7126g2f0059c28240" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="6"/>
+                    <attribute id="Name" type="FixedString" value="WW83_SmitePoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="6e182375-02d3-42df-9c87-aab326803f93"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

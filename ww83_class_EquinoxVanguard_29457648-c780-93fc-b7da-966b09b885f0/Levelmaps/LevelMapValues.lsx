@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level10" type="LSString" value="1D8"/>
+                    <attribute id="Level11" type="LSString" value="1D8"/>
+                    <attribute id="Level12" type="LSString" value="1D8"/>
+                    <attribute id="Level3" type="LSString" value="1D4"/>
+                    <attribute id="Level4" type="LSString" value="1D4"/>
+                    <attribute id="Level5" type="LSString" value="1D6"/>
+                    <attribute id="Level6" type="LSString" value="1D6"/>
+                    <attribute id="Level7" type="LSString" value="1D6"/>
+                    <attribute id="Level8" type="LSString" value="1D6"/>
+                    <attribute id="Level9" type="LSString" value="1D8"/>
+                    <attribute id="Name" type="FixedString" value="ww83_BlinkSmite"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="2e614ce7-e06b-421b-91ae-75fd6ba6d784"/>
+                    <attribute id="UUID" type="guid" value="5813542f-e000-46e2-8c08-ee1ece967f5f"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level10" type="LSString" value="2d8"/>
+                    <attribute id="Level11" type="LSString" value="2d8"/>
+                    <attribute id="Level12" type="LSString" value="2d8"/>
+                    <attribute id="Level3" type="LSString" value="2D4"/>
+                    <attribute id="Level4" type="LSString" value="2D4"/>
+                    <attribute id="Level5" type="LSString" value="2d6"/>
+                    <attribute id="Level6" type="LSString" value="2d6"/>
+                    <attribute id="Level7" type="LSString" value="2d6"/>
+                    <attribute id="Level8" type="LSString" value="2d6"/>
+                    <attribute id="Level9" type="LSString" value="2d8"/>
+                    <attribute id="Name" type="FixedString" value="ww83_BlinkSmite_TaggedEnemy"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="2e614ce7-e06b-421b-91ae-75fd6ba6d784"/>
+                    <attribute id="UUID" type="guid" value="d5a8bd19-0d63-4c03-9fd1-3794626fc828"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
