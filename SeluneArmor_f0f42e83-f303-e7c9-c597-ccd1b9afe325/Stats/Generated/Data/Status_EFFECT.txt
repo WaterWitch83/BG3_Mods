@@ -1,0 +1,7 @@
+new entry "WW83_NEW_MOON_BLESSING"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "DisplayName" "hdf2cd2c1g1952ge01bgd311ge27595508d85;1"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" "3f932692-36f0-4a5f-8dfe-4aeee47c6c57"
+
