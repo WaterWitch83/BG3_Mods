@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WW83_Phantom_SLevel3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_WW83_WhispersOfTheDead;Shout_WW83_SoulConsumption"/>
+                    <attribute id="UUID" type="guid" value="cd6573e3-7019-487f-85a9-41e921dde6fd"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WW83_Phantom_SLevel9"/>
+                    <attribute id="Spells" type="LSString" value="Shout_WW83_SoulTokenHaste;Shout_WW83_NecroticInfusion;Target_WW83_SpeakWithDead"/>
+                    <attribute id="UUID" type="guid" value="a4bf0dd4-ac3b-4043-9193-3fdcbc05b6ee"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WW83_Phantom_SLevel10"/>
+                    <attribute id="Spells" type="LSString" value="Shout_WW83_NecroticAdept"/>
+                    <attribute id="UUID" type="guid" value="77b74de4-1a92-4a74-a14e-53dd0de8c8d1"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="WW83_Phantom_SLvl12"/>
+                    <attribute id="Spells" type="LSString" value="Shout_WW83_GhostWalk"/>
+                    <attribute id="UUID" type="guid" value="8fd1afec-a461-4898-a45e-2e0d5a3611b7"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

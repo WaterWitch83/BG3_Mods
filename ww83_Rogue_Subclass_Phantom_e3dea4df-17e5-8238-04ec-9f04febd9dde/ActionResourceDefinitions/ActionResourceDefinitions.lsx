@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h878b20cag9a4bged5cgeb32gfb52b090738c" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h27964a1fgdcd1g7591gc01dg4187244b8e96" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="6"/>
+                    <attribute id="Name" type="FixedString" value="WW83_SoulTokens"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="ecb6bdca-b69a-4a36-8a05-fd3152c8dadf"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="he4aef69dgbabbg13c5gc42ag5477a090ef48" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hec505585g9f65g44fbg2866g60f4241b59a6" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="6"/>
+                    <attribute id="Name" type="FixedString" value="WW83_ChannelDeath"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="b045b26a-1e06-426e-bdd2-d352a3d5d54f"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
